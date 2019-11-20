@@ -5,9 +5,10 @@ import Index from '@/components/views/Index'
 import ElementUI from 'element-ui';
 
 import 'element-ui/lib/theme-chalk/index.css';
+
 Vue.use(ElementUI)
 Vue.use(Router)
-vue 
+
 export default new Router({
   routes: [
     {
